@@ -41,3 +41,9 @@ Make Model with migration
 php artisan make:model <modelname> -m
 
 ```
+
+Make Migration
+```
+php artisan migrate
+
+```
