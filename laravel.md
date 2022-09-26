@@ -30,8 +30,8 @@ php artisan make:component <componentname>
 
 ```
 
-Run Server
+Make Request
 ```
-php artisan make:component <componentname>
+php artisan make:request <requestname>
 
 ```
