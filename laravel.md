@@ -24,7 +24,7 @@ php artisan make:controller <controllername> --resource
 
 ```
 
-Run Server
+Make Component
 ```
 php artisan make:component <componentname>
 
@@ -33,5 +33,11 @@ php artisan make:component <componentname>
 Make Request
 ```
 php artisan make:request <requestname>
+
+```
+
+Make Model with migration
+```
+php artisan make:model <modelname> -m
 
 ```
