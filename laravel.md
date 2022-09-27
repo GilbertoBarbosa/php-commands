@@ -2,7 +2,7 @@
 
 List commands
 ```
-php artisan
+php artisan list
 
 ```
 
@@ -47,3 +47,16 @@ Make Migration
 php artisan migrate
 
 ```
+
+Remove all tables and do migration again
+```
+php artisan migrate:fresh
+
+```
+
+Install debugbar
+```
+php composer require barryvdh/laravel-debugbar --dev 
+
+```
+
