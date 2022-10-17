@@ -60,3 +60,9 @@ php composer require barryvdh/laravel-debugbar --dev
 
 ```
 
+Create provider
+```
+php artisan make:provider <nameProvider> 
+
+```
+
