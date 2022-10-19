@@ -72,3 +72,13 @@ php artisan make:middleware <MiddlewareName>
 
 ```
 
+Install Breeze
+```
+composer require laravel/breeze --dev
+php artisan breeze:install
+npm install
+npm run dev
+php artisan migrate
+
+
+```
