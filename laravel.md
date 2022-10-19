@@ -62,7 +62,13 @@ php composer require barryvdh/laravel-debugbar --dev
 
 Create provider
 ```
-php artisan make:provider <nameProvider> 
+php artisan make:provider <ProviderName> 
+
+```
+
+Create middleware
+```
+php artisan make:middleware <MiddlewareName> 
 
 ```
 
