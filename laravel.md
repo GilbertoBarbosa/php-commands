@@ -80,5 +80,10 @@ npm install
 npm run dev
 php artisan migrate
 
+```
+
+Create mail
+```
+php artisan make:mail <ClassName> 
 
 ```
