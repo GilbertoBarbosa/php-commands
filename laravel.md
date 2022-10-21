@@ -104,7 +104,7 @@ php artisan tinker
 Process queue
 ```
 php artisan queue:listen
-php artisan queue:work
+php artisan queue:work --tries=<number> --delay=<number>
 php artisan queue:retry <id>
 
 
