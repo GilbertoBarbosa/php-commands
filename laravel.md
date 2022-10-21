@@ -94,3 +94,9 @@ php artisan queue:table
 php artisan migrate
 
 ```
+
+Open interactive laravel terminal
+```
+php artisan tinker
+
+```
