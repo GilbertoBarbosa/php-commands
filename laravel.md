@@ -87,3 +87,10 @@ Create mail
 php artisan make:mail <ClassName> 
 
 ```
+
+Create queue table
+```
+php artisan queue:table
+php artisan migrate
+
+```
