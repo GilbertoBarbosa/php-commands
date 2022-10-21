@@ -100,3 +100,11 @@ Open interactive laravel terminal
 php artisan tinker
 
 ```
+
+Process queue
+```
+php artisan queue:listen
+php artisan queue:work
+
+
+```
