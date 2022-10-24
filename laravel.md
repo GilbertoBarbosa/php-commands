@@ -138,3 +138,9 @@ Create Test
 php artisan make:test <testName>
 
 ```
+
+Test with selenium
+```
+composer require --dev laravel/dusk
+
+```
