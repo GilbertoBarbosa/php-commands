@@ -127,8 +127,14 @@ php artisan storage:link
 
 ```
 
-Test
+Run Test
 ```
 php artisan test
+
+```
+
+Create Test
+```
+php artisan make:test <testName>
 
 ```
