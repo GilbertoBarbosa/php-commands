@@ -126,3 +126,9 @@ Storage link
 php artisan storage:link 
 
 ```
+
+Test
+```
+php artisan test
+
+```
