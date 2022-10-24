@@ -120,3 +120,9 @@ Create event
 php artisan make:event <name>
 
 ```
+
+Storage link
+```
+php artisan storage:link 
+
+```
