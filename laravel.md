@@ -106,6 +106,17 @@ Process queue
 php artisan queue:listen
 php artisan queue:work --tries=<number> --delay=<number>
 php artisan queue:retry <id>
+ 
+```
 
+Create listener
+```
+php artisan make:listener <name>
+
+```
+
+Create event
+```
+php artisan make:event <name>
 
 ```
