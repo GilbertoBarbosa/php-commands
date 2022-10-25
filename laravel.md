@@ -144,3 +144,9 @@ Test with selenium
 composer require --dev laravel/dusk
 
 ```
+
+Show all rotes
+```
+php artisan route:list
+
+```
