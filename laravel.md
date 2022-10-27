@@ -150,3 +150,9 @@ Show all rotes
 php artisan route:list
 
 ```
+
+Install sanctum
+```
+composer require laravel/sanctum
+
+```
